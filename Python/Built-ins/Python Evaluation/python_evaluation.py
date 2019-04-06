@@ -1,0 +1,2 @@
+k = input()
+eval(k)
